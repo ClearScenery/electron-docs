@@ -1,29 +1,3 @@
-## 前言:
-> Electron中文文档! 精心翻译,完美排版,实时同步更新! (本文档未经同意不得传播!) , 最后同步:2017-05-23
-
-### QQ交流群:
-- 群名称：Electron/Nw.js开发交流群
-- 群   号：535260421
-- 创   建：2017-05-19
-- 宗   旨：严禁广告,仅为Electron/Nw.js应用开发交流,译者群主将不定期分享DEMO文件给大家交流学习使用.
-
-### 群内DEMO文件教程列表:
-1. 001自定义托盘菜单界面.zip
-
-![image](demo/images/03.png)
-
-2. 002迅雷悬浮窗右键快捷菜单.zip
-
-![image](demo/images/08.png)
-
-3. 003渲染进程内实时在线或离线提示.zip
-
-![image](demo/images/09.png)
-
-4. 004系统托盘闪烁图标提示用户示例.zip
-
-![image](demo/images/10.gif)
-
 
 ## 延伸拓展:
 如果API中所列功能无法满足你的需求时,[chrome-app-samples](https://github.com/GoogleChrome/chrome-app-samples)是你最好的选择.
